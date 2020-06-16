@@ -1,0 +1,5 @@
+name: Myapi
+version: ${project.version}
+main: me.zxoir.myapi.Myapi
+authors: [zxoir]
+description: api test
